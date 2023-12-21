@@ -1,4 +1,6 @@
-### Hi there 👋
+Bem vindo ao meu perfil GitHub 👋
+
+Olá, me chamo Lucas, trabalho com Marketing Digital e nas horas vagas me arrisco programando!
 
 <!--
 **lucasguimr/lucasguimr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
